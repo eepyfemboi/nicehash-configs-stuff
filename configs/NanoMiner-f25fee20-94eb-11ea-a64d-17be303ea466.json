@@ -1,0 +1,67 @@
+{
+  "miner_name": "NanoMiner",
+  "miner_uuid": "f25fee20-94eb-11ea-a64d-17be303ea466",
+  "miner_command": [],
+  "algos": [
+    {
+      "algo": "VerusHash",
+      "algorithm_command": [],
+      "devices": {
+        "CPU-bf8a5bd4-e35b-5493-9db4-bc61197de7b3": {
+          "device": "CPU#1 AMD Ryzen 9 7950X 16-Core Processor",
+          "commands": []
+        }
+      }
+    },
+    {
+      "algo": "KAWPOW",
+      "algorithm_command": [],
+      "devices": {
+        "GPU-82114cd7-cc23-5913-25a4-8d237ce5cc76": {
+          "device": "GPU#1 PNY NVIDIA GeForce RTX 4060",
+          "commands": []
+        }
+      }
+    },
+    {
+      "algo": "DaggerHashimoto",
+      "algorithm_command": [],
+      "devices": {
+        "GPU-82114cd7-cc23-5913-25a4-8d237ce5cc76": {
+          "device": "GPU#1 PNY NVIDIA GeForce RTX 4060",
+          "commands": []
+        }
+      }
+    },
+    {
+      "algo": "Autolykos",
+      "algorithm_command": [],
+      "devices": {
+        "GPU-82114cd7-cc23-5913-25a4-8d237ce5cc76": {
+          "device": "GPU#1 PNY NVIDIA GeForce RTX 4060",
+          "commands": []
+        }
+      }
+    },
+    {
+      "algo": "EtcHash",
+      "algorithm_command": [],
+      "devices": {
+        "GPU-82114cd7-cc23-5913-25a4-8d237ce5cc76": {
+          "device": "GPU#1 PNY NVIDIA GeForce RTX 4060",
+          "commands": []
+        }
+      }
+    },
+    {
+      "algo": "Octopus",
+      "algorithm_command": [],
+      "devices": {
+        "GPU-82114cd7-cc23-5913-25a4-8d237ce5cc76": {
+          "device": "GPU#1 PNY NVIDIA GeForce RTX 4060",
+          "commands": []
+        }
+      }
+    }
+  ]
+}

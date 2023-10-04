@@ -1,0 +1,38 @@
+{
+  "DeviceUUID": "CPU-b3c01cab-ff3d-5183-846e-b1723010f19f",
+  "DeviceName": "Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz",
+  "Enabled": true,
+  "MinimumProfit": 0.0,
+  "PauseMiningWhenGamingMode": false,
+  "TDPSettings": {
+    "SettingType": "UNSUPPORTED",
+    "Simple": null,
+    "Percentage": null
+  },
+  "PluginAlgorithmSettings": [
+    {
+      "Name": "XMRig",
+      "PluginUUID": "0e0a7320-94ec-11ea-a64d-17be303ea466",
+      "PluginVersion": "19.1",
+      "AlgorithmIDs": "RandomXmonero",
+      "Speeds": [
+        631.1547
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": false,
+      "PowerUsage": 0.0
+    },
+    {
+      "Name": "Excavator",
+      "PluginUUID": "27315fe0-3b03-11eb-b105-8d43d5bd63be",
+      "PluginVersion": "19.6",
+      "AlgorithmIDs": "RandomXmonero",
+      "Speeds": [
+        0.0
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": true,
+      "PowerUsage": 0.0
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "DeviceUUID": "CPU-bf8a5bd4-e35b-5493-9db4-bc61197de7b3",
+  "DeviceName": "AMD Ryzen 9 7950X 16-Core Processor",
+  "Enabled": true,
+  "MinimumProfit": 0.0,
+  "PauseMiningWhenGamingMode": false,
+  "TDPSettings": {
+    "SettingType": "UNSUPPORTED",
+    "Simple": null,
+    "Percentage": null
+  },
+  "PluginAlgorithmSettings": [
+    {
+      "Name": "XMRig",
+      "PluginUUID": "0e0a7320-94ec-11ea-a64d-17be303ea466",
+      "PluginVersion": "19.1",
+      "AlgorithmIDs": "RandomXmonero",
+      "Speeds": [
+        20472.351899999998
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": true,
+      "PowerUsage": 0.0
+    },
+    {
+      "Name": "Excavator",
+      "PluginUUID": "27315fe0-3b03-11eb-b105-8d43d5bd63be",
+      "PluginVersion": "22.1",
+      "AlgorithmIDs": "RandomXmonero",
+      "Speeds": [
+        17261.345463029338
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": true,
+      "PowerUsage": 0.0
+    },
+    {
+      "Name": "NanoMiner",
+      "PluginUUID": "f25fee20-94eb-11ea-a64d-17be303ea466",
+      "PluginVersion": "19.6",
+      "AlgorithmIDs": "VerusHash",
+      "Speeds": [
+        58012801.93333334
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": true,
+      "PowerUsage": 0.0
+    }
+  ]
+}

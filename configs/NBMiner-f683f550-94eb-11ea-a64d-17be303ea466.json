@@ -1,0 +1,77 @@
+{
+  "miner_name": "NBMiner",
+  "miner_uuid": "f683f550-94eb-11ea-a64d-17be303ea466",
+  "miner_command": [],
+  "algos": [
+    {
+      "algo": "KAWPOW",
+      "algorithm_command": [],
+      "devices": {
+        "GPU-82114cd7-cc23-5913-25a4-8d237ce5cc76": {
+          "device": "GPU#1 PNY NVIDIA GeForce RTX 4060",
+          "commands": []
+        }
+      }
+    },
+    {
+      "algo": "DaggerHashimoto",
+      "algorithm_command": [],
+      "devices": {
+        "GPU-82114cd7-cc23-5913-25a4-8d237ce5cc76": {
+          "device": "GPU#1 PNY NVIDIA GeForce RTX 4060",
+          "commands": []
+        }
+      }
+    },
+    {
+      "algo": "Autolykos",
+      "algorithm_command": [],
+      "devices": {
+        "GPU-82114cd7-cc23-5913-25a4-8d237ce5cc76": {
+          "device": "GPU#1 PNY NVIDIA GeForce RTX 4060",
+          "commands": []
+        }
+      }
+    },
+    {
+      "algo": "EtcHash",
+      "algorithm_command": [],
+      "devices": {
+        "GPU-82114cd7-cc23-5913-25a4-8d237ce5cc76": {
+          "device": "GPU#1 PNY NVIDIA GeForce RTX 4060",
+          "commands": []
+        }
+      }
+    },
+    {
+      "algo": "Octopus",
+      "algorithm_command": [],
+      "devices": {
+        "GPU-82114cd7-cc23-5913-25a4-8d237ce5cc76": {
+          "device": "GPU#1 PNY NVIDIA GeForce RTX 4060",
+          "commands": []
+        }
+      }
+    },
+    {
+      "algo": "BeamV3",
+      "algorithm_command": [],
+      "devices": {
+        "GPU-82114cd7-cc23-5913-25a4-8d237ce5cc76": {
+          "device": "GPU#1 PNY NVIDIA GeForce RTX 4060",
+          "commands": []
+        }
+      }
+    },
+    {
+      "algo": "CuckooCycle",
+      "algorithm_command": [],
+      "devices": {
+        "GPU-82114cd7-cc23-5913-25a4-8d237ce5cc76": {
+          "device": "GPU#1 PNY NVIDIA GeForce RTX 4060",
+          "commands": []
+        }
+      }
+    }
+  ]
+}

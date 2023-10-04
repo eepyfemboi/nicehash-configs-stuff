@@ -1,0 +1,22 @@
+{
+  "miner_name": "XMRig",
+  "miner_uuid": "0e0a7320-94ec-11ea-a64d-17be303ea466",
+  "miner_command": [
+    [
+      "--cpu-priority",
+      "0"
+    ]
+  ],
+  "algos": [
+    {
+      "algo": "RandomXmonero",
+      "algorithm_command": [],
+      "devices": {
+        "CPU-bf8a5bd4-e35b-5493-9db4-bc61197de7b3": {
+          "device": "CPU#1 AMD Ryzen 9 7950X 16-Core Processor",
+          "commands": []
+        }
+      }
+    }
+  ]
+}

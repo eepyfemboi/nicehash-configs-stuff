@@ -1,0 +1,36 @@
+{
+  "UseUserSettings": false,
+  "FakeDevices": false,
+  "Devices": [
+    {
+      "Name": "Fake CPU",
+      "DeviceType": 0,
+      "UUID": "FCPU-d0e3cc7b-9455-4386-9d7c-154754ae577e",
+      "ID": 0
+    },
+    {
+      "Name": "Fake NVIDIA",
+      "DeviceType": 1,
+      "UUID": "FGPU-75555d30-b049-4e10-8add-eff796028b14",
+      "ID": 0
+    },
+    {
+      "Name": "Fake NVIDIA",
+      "DeviceType": 1,
+      "UUID": "FGPU-da69753a-4d27-4ab2-95ba-6504be9e8a9a",
+      "ID": 1
+    },
+    {
+      "Name": "Fake AMD",
+      "DeviceType": 2,
+      "UUID": "FAMD-bbc36d15-61db-4342-bb0d-2c97c62fe387",
+      "ID": 0
+    },
+    {
+      "Name": "Fake AMD",
+      "DeviceType": 2,
+      "UUID": "FAMD-7c779e99-4b58-47e1-825c-0a4d6c01a70d",
+      "ID": 1
+    }
+  ]
+}

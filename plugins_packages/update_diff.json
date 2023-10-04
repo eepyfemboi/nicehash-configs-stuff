@@ -1,0 +1,688 @@
+[
+  {
+    "Item1": {
+      "PluginUUID": "0e0a7320-94ec-11ea-a64d-17be303ea466",
+      "PluginPackageHash": "0edddd5095a777f6094e9195d4aecb93b3f7072b6b216d4ab62a0a6bee4457ea",
+      "BinaryPackageHash": "03c21c80852f088d5afe28de2838a49b63f45e217b6b7087417771851a197293",
+      "PluginName": "XMRig",
+      "PluginVersion": {
+        "major": 16,
+        "minor": 0
+      },
+      "PluginPackageURL": "https://github.com/nicehash/NHM_MinerPluginsDownloads/releases/download/v16.x/XMRig_v16.0_mptoolkitV1_0e0a7320-94ec-11ea-a64d-17be303ea466.zip",
+      "MinerPackageURL": "https://github.com/xmrig/xmrig/releases/download/v6.8.1/xmrig-6.8.1-msvc-win64.zip",
+      "SupportedDevicesAlgorithms": {
+        "CPU": [
+          "RandomXmonero"
+        ]
+      },
+      "PluginAuthor": "info@nicehash.com",
+      "PluginDescription": "Miner Binary Version 'v6.8.1'.\n\nCryptoNight and RandomX (Monero) CPU miner",
+      "PackagePassword": null
+    },
+    "Item2": {
+      "PluginUUID": "0e0a7320-94ec-11ea-a64d-17be303ea466",
+      "PluginPackageHash": "4eb8102140e1c8163116fa8e911377bebdf0b29506474cbd1d581d9b65178b28",
+      "BinaryPackageHash": "03c21c80852f088d5afe28de2838a49b63f45e217b6b7087417771851a197293",
+      "PluginName": "XMRig",
+      "PluginVersion": {
+        "major": 19,
+        "minor": 1
+      },
+      "PluginPackageURL": "https://github.com/nicehash/NHM_MinerPluginsDownloads/releases/download/v19.x/XMRig_v19.1_mptoolkitV1_0e0a7320-94ec-11ea-a64d-17be303ea466.zip",
+      "MinerPackageURL": "https://github.com/xmrig/xmrig/releases/download/v6.8.1/xmrig-6.8.1-msvc-win64.zip",
+      "SupportedDevicesAlgorithms": {
+        "CPU": [
+          "RandomXmonero"
+        ]
+      },
+      "PluginAuthor": "info@nicehash.com",
+      "PluginDescription": "Miner Binary Version 'v6.8.1'.\n\nCryptoNight and RandomX (Monero) CPU miner",
+      "PackagePassword": null
+    }
+  },
+  {
+    "Item1": {
+      "PluginUUID": "27315fe0-3b03-11eb-b105-8d43d5bd63be",
+      "PluginPackageHash": "a8184a463fd7b7734f6a5298ea8c0621f4175d6dfbed9207f63a3050984e5bd3",
+      "BinaryPackageHash": "991597081cec0c986ee607f9142fb9df940f62af6912265b493b8ec223eb4324",
+      "PluginName": "Excavator",
+      "PluginVersion": {
+        "major": 17,
+        "minor": 2
+      },
+      "PluginPackageURL": "https://github.com/nicehash/NHM_MinerPluginsDownloads/releases/download/v17.x/Excavator_v17.2_mptoolkitV1_27315fe0-3b03-11eb-b105-8d43d5bd63be.zip",
+      "MinerPackageURL": "https://github.com/nicehash/NiceHashQuickMiner/releases/download/v0.5.5.0/NHQM_v0.5.5.0.zip",
+      "SupportedDevicesAlgorithms": {
+        "NVIDIA": [
+          "DaggerHashimoto"
+        ],
+        "AMD": [
+          "DaggerHashimoto"
+        ],
+        "CPU": []
+      },
+      "PluginAuthor": "info@nicehash.com",
+      "PluginDescription": "Miner Binary Version 'v1.7.7.6'.\n\nExcavator NVIDIA GPU miner from NiceHash",
+      "PackagePassword": ""
+    },
+    "Item2": {
+      "PluginUUID": "27315fe0-3b03-11eb-b105-8d43d5bd63be",
+      "PluginPackageHash": "5022902232a32c510b143f4054119fccf09dd2226a33474202dc739823f3b04b",
+      "BinaryPackageHash": "47fccc0e1560ddbf2e4cdd7e43f345d47917576db52c6b0948bcbbae22b49748",
+      "PluginName": "Excavator",
+      "PluginVersion": {
+        "major": 19,
+        "minor": 4
+      },
+      "PluginPackageURL": "https://github.com/nicehash/NHM_MinerPluginsDownloads/releases/download/v19.x/Excavator_v19.4_mptoolkitV1_27315fe0-3b03-11eb-b105-8d43d5bd63be.zip",
+      "MinerPackageURL": "https://github.com/nicehash/NiceHashQuickMiner/releases/download/v0.6.3.0_RC/NHQM_v0.6.3.0_RC.zip",
+      "SupportedDevicesAlgorithms": {
+        "CPU": [
+          "RandomXmonero"
+        ],
+        "AMD": [
+          "DaggerHashimoto",
+          "EtcHash",
+          "Autolykos",
+          "KAWPOW",
+          "NeoScrypt"
+        ],
+        "NVIDIA": [
+          "DaggerHashimoto",
+          "EtcHash",
+          "Autolykos",
+          "KAWPOW",
+          "NeoScrypt"
+        ]
+      },
+      "PluginAuthor": "info@nicehash.com",
+      "PluginDescription": "Miner Binary Version 'v1.8.3.0'.\n\nExcavator NVIDIA/AMD GPU and CPU miner from NiceHash",
+      "PackagePassword": null
+    }
+  },
+  {
+    "Item1": {
+      "PluginUUID": "27315fe0-3b03-11eb-b105-8d43d5bd63be",
+      "PluginPackageHash": "3fc4f97bcf1d582b7dcc21a25587e4770663ef7c1ddd5ab4b67354fb19e3d5fc",
+      "BinaryPackageHash": "ddbd52ba1760d09f433c32d8a4ebd5f758626db18778fca337b52651597a8653",
+      "PluginName": "Excavator",
+      "PluginVersion": {
+        "major": 16,
+        "minor": 3
+      },
+      "PluginPackageURL": "https://github.com/nicehash/NHM_MinerPluginsDownloads/releases/download/v16.x/Excavator_v16.3_mptoolkitV1_27315fe0-3b03-11eb-b105-8d43d5bd63be.zip",
+      "MinerPackageURL": "https://github.com/nicehash/NiceHashQuickMiner/releases/download/v0.5.3.6/NHQM_v0.5.3.6.zip",
+      "SupportedDevicesAlgorithms": {
+        "NVIDIA": [
+          "DaggerHashimoto"
+        ],
+        "AMD": [
+          "DaggerHashimoto"
+        ],
+        "CPU": []
+      },
+      "PluginAuthor": "info@nicehash.com",
+      "PluginDescription": "Miner Binary Version 'v1.7.6.5'.\n\nExcavator NVIDIA GPU miner from NiceHash",
+      "PackagePassword": ""
+    },
+    "Item2": {
+      "PluginUUID": "27315fe0-3b03-11eb-b105-8d43d5bd63be",
+      "PluginPackageHash": "5022902232a32c510b143f4054119fccf09dd2226a33474202dc739823f3b04b",
+      "BinaryPackageHash": "47fccc0e1560ddbf2e4cdd7e43f345d47917576db52c6b0948bcbbae22b49748",
+      "PluginName": "Excavator",
+      "PluginVersion": {
+        "major": 19,
+        "minor": 4
+      },
+      "PluginPackageURL": "https://github.com/nicehash/NHM_MinerPluginsDownloads/releases/download/v19.x/Excavator_v19.4_mptoolkitV1_27315fe0-3b03-11eb-b105-8d43d5bd63be.zip",
+      "MinerPackageURL": "https://github.com/nicehash/NiceHashQuickMiner/releases/download/v0.6.3.0_RC/NHQM_v0.6.3.0_RC.zip",
+      "SupportedDevicesAlgorithms": {
+        "CPU": [
+          "RandomXmonero"
+        ],
+        "AMD": [
+          "DaggerHashimoto",
+          "EtcHash",
+          "Autolykos",
+          "KAWPOW",
+          "NeoScrypt"
+        ],
+        "NVIDIA": [
+          "DaggerHashimoto",
+          "EtcHash",
+          "Autolykos",
+          "KAWPOW",
+          "NeoScrypt"
+        ]
+      },
+      "PluginAuthor": "info@nicehash.com",
+      "PluginDescription": "Miner Binary Version 'v1.8.3.0'.\n\nExcavator NVIDIA/AMD GPU and CPU miner from NiceHash",
+      "PackagePassword": null
+    }
+  },
+  {
+    "Item1": {
+      "PluginUUID": "eb75e920-94eb-11ea-a64d-17be303ea466",
+      "PluginPackageHash": "11cfd9c4ecbbeef3b1f636280627d62fe92fde1b47bd53d0ea425ba25e5b1ef1",
+      "BinaryPackageHash": "24a358252355af416d5e575b49ece973c24e2a3bf4cdd2911c133a36dd9d6e27",
+      "PluginName": "lolMiner",
+      "PluginVersion": {
+        "major": 19,
+        "minor": 7
+      },
+      "PluginPackageURL": "https://github.com/nicehash/NHM_MinerPluginsDownloads/releases/download/v19.x/lolMiner_v19.7_mptoolkitV1_eb75e920-94eb-11ea-a64d-17be303ea466.zip",
+      "MinerPackageURL": "https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.65/lolMiner_v1.65_Win64.zip",
+      "SupportedDevicesAlgorithms": {
+        "NVIDIA": [
+          "GrinCuckatoo31",
+          "GrinCuckatoo32",
+          "CuckooCycle",
+          "ZHash",
+          "BeamV3",
+          "DaggerHashimoto",
+          "EtcHash",
+          "ZelHash",
+          "KHeavyHash",
+          "Autolykos"
+        ],
+        "AMD": [
+          "GrinCuckatoo31",
+          "GrinCuckatoo32",
+          "CuckooCycle",
+          "ZHash",
+          "BeamV3",
+          "DaggerHashimoto",
+          "EtcHash",
+          "ZelHash",
+          "KHeavyHash",
+          "Autolykos"
+        ],
+        "CPU": []
+      },
+      "PluginAuthor": "info@nicehash.com",
+      "PluginDescription": "Miner Binary Version '1.65'.\n\nMiner for AMD and Nvidia gpus.",
+      "PackagePassword": ""
+    },
+    "Item2": {
+      "PluginUUID": "eb75e920-94eb-11ea-a64d-17be303ea466",
+      "PluginPackageHash": "41623578cffe7b014e8f70b53eaeb0961a54e9ad5b1e891b38b4627f14dca701",
+      "BinaryPackageHash": "b0ce4ab3aadc362eeade2b2436b6cfc17ce98bf58f55a273cf444a9734852c49",
+      "PluginName": "lolMiner",
+      "PluginVersion": {
+        "major": 20,
+        "minor": 0
+      },
+      "PluginPackageURL": "https://github.com/nicehash/NHM_MinerPluginsDownloads/releases/download/v20.x/lolMiner_v20.0_mptoolkitV1_eb75e920-94eb-11ea-a64d-17be303ea466.zip",
+      "MinerPackageURL": "https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.73/lolMiner_v1.73_Win64.zip",
+      "SupportedDevicesAlgorithms": {
+        "AMD": [
+          "GrinCuckatoo31",
+          "GrinCuckatoo32",
+          "CuckooCycle",
+          "ZHash",
+          "BeamV3",
+          "DaggerHashimoto",
+          "EtcHash",
+          "ZelHash",
+          "KHeavyHash",
+          "Autolykos"
+        ],
+        "NVIDIA": [
+          "GrinCuckatoo31",
+          "GrinCuckatoo32",
+          "CuckooCycle",
+          "ZHash",
+          "BeamV3",
+          "DaggerHashimoto",
+          "EtcHash",
+          "ZelHash",
+          "KHeavyHash",
+          "Autolykos"
+        ],
+        "INTEL": [
+          "KHeavyHash",
+          "BeamV3",
+          "Autolykos",
+          "ZelHash",
+          "ZHash"
+        ]
+      },
+      "PluginAuthor": "info@nicehash.com",
+      "PluginDescription": "Miner Binary Version '1.73'.\n\nMiner for AMD and Nvidia gpus.",
+      "PackagePassword": null
+    }
+  },
+  {
+    "Item1": {
+      "PluginUUID": "eb75e920-94eb-11ea-a64d-17be303ea466",
+      "PluginPackageHash": "66b5ff759151375bbd3efd0db72046b0aca5c8d485cfdb380f900d40283bc20f",
+      "BinaryPackageHash": "e54e4fdcb8949a0065dc46dcaa7e5e148993a8d8b4e13461acd5433aa8404597",
+      "PluginName": "lolMiner",
+      "PluginVersion": {
+        "major": 18,
+        "minor": 1
+      },
+      "PluginPackageURL": "https://github.com/nicehash/NHM_MinerPluginsDownloads/releases/download/v18.x/lolMiner_v18.1_mptoolkitV1_eb75e920-94eb-11ea-a64d-17be303ea466.zip",
+      "MinerPackageURL": "https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.51a/lolMiner_v1.51a_Win64.zip",
+      "SupportedDevicesAlgorithms": {
+        "AMD": [
+          "GrinCuckatoo31",
+          "GrinCuckatoo32",
+          "ZHash",
+          "BeamV3",
+          "DaggerHashimoto",
+          "ZelHash",
+          "EtcHash"
+        ],
+        "NVIDIA": [
+          "GrinCuckatoo31",
+          "GrinCuckatoo32",
+          "ZHash",
+          "BeamV3",
+          "DaggerHashimoto",
+          "ZelHash",
+          "EtcHash"
+        ]
+      },
+      "PluginAuthor": "info@nicehash.com",
+      "PluginDescription": "Miner Binary Version '1.51a'.\n\nMiner for AMD and Nvidia gpus.",
+      "PackagePassword": null
+    },
+    "Item2": {
+      "PluginUUID": "eb75e920-94eb-11ea-a64d-17be303ea466",
+      "PluginPackageHash": "41623578cffe7b014e8f70b53eaeb0961a54e9ad5b1e891b38b4627f14dca701",
+      "BinaryPackageHash": "b0ce4ab3aadc362eeade2b2436b6cfc17ce98bf58f55a273cf444a9734852c49",
+      "PluginName": "lolMiner",
+      "PluginVersion": {
+        "major": 20,
+        "minor": 0
+      },
+      "PluginPackageURL": "https://github.com/nicehash/NHM_MinerPluginsDownloads/releases/download/v20.x/lolMiner_v20.0_mptoolkitV1_eb75e920-94eb-11ea-a64d-17be303ea466.zip",
+      "MinerPackageURL": "https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.73/lolMiner_v1.73_Win64.zip",
+      "SupportedDevicesAlgorithms": {
+        "AMD": [
+          "GrinCuckatoo31",
+          "GrinCuckatoo32",
+          "CuckooCycle",
+          "ZHash",
+          "BeamV3",
+          "DaggerHashimoto",
+          "EtcHash",
+          "ZelHash",
+          "KHeavyHash",
+          "Autolykos"
+        ],
+        "NVIDIA": [
+          "GrinCuckatoo31",
+          "GrinCuckatoo32",
+          "CuckooCycle",
+          "ZHash",
+          "BeamV3",
+          "DaggerHashimoto",
+          "EtcHash",
+          "ZelHash",
+          "KHeavyHash",
+          "Autolykos"
+        ],
+        "INTEL": [
+          "KHeavyHash",
+          "BeamV3",
+          "Autolykos",
+          "ZelHash",
+          "ZHash"
+        ]
+      },
+      "PluginAuthor": "info@nicehash.com",
+      "PluginDescription": "Miner Binary Version '1.73'.\n\nMiner for AMD and Nvidia gpus.",
+      "PackagePassword": null
+    }
+  },
+  {
+    "Item1": {
+      "PluginUUID": "eb75e920-94eb-11ea-a64d-17be303ea466",
+      "PluginPackageHash": "e05e3fcecb87420a2bfba4228abd68d59b6f2cffdf2863892bb8760f4c4ffc13",
+      "BinaryPackageHash": "e08ea55a041d5ca804e620d70e8c227f878eac23ce83863d617f78e73bb86216",
+      "PluginName": "lolMiner",
+      "PluginVersion": {
+        "major": 16,
+        "minor": 7
+      },
+      "PluginPackageURL": "https://github.com/nicehash/NHM_MinerPluginsDownloads/releases/download/v16.x/lolMiner_v16.7_mptoolkitV1_eb75e920-94eb-11ea-a64d-17be303ea466.zip",
+      "MinerPackageURL": "https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.48/lolMiner_v1.48_Win64.zip",
+      "SupportedDevicesAlgorithms": {
+        "AMD": [
+          "GrinCuckatoo31",
+          "GrinCuckatoo32",
+          "ZHash",
+          "BeamV3",
+          "DaggerHashimoto",
+          "Autolykos",
+          "ZelHash"
+        ],
+        "NVIDIA": [
+          "GrinCuckatoo31",
+          "GrinCuckatoo32",
+          "ZHash",
+          "BeamV3",
+          "DaggerHashimoto",
+          "Autolykos",
+          "ZelHash"
+        ]
+      },
+      "PluginAuthor": "info@nicehash.com",
+      "PluginDescription": "Miner Binary Version '1.48'.\n\nMiner for AMD and Nvidia gpus.",
+      "PackagePassword": null
+    },
+    "Item2": {
+      "PluginUUID": "eb75e920-94eb-11ea-a64d-17be303ea466",
+      "PluginPackageHash": "41623578cffe7b014e8f70b53eaeb0961a54e9ad5b1e891b38b4627f14dca701",
+      "BinaryPackageHash": "b0ce4ab3aadc362eeade2b2436b6cfc17ce98bf58f55a273cf444a9734852c49",
+      "PluginName": "lolMiner",
+      "PluginVersion": {
+        "major": 20,
+        "minor": 0
+      },
+      "PluginPackageURL": "https://github.com/nicehash/NHM_MinerPluginsDownloads/releases/download/v20.x/lolMiner_v20.0_mptoolkitV1_eb75e920-94eb-11ea-a64d-17be303ea466.zip",
+      "MinerPackageURL": "https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.73/lolMiner_v1.73_Win64.zip",
+      "SupportedDevicesAlgorithms": {
+        "AMD": [
+          "GrinCuckatoo31",
+          "GrinCuckatoo32",
+          "CuckooCycle",
+          "ZHash",
+          "BeamV3",
+          "DaggerHashimoto",
+          "EtcHash",
+          "ZelHash",
+          "KHeavyHash",
+          "Autolykos"
+        ],
+        "NVIDIA": [
+          "GrinCuckatoo31",
+          "GrinCuckatoo32",
+          "CuckooCycle",
+          "ZHash",
+          "BeamV3",
+          "DaggerHashimoto",
+          "EtcHash",
+          "ZelHash",
+          "KHeavyHash",
+          "Autolykos"
+        ],
+        "INTEL": [
+          "KHeavyHash",
+          "BeamV3",
+          "Autolykos",
+          "ZelHash",
+          "ZHash"
+        ]
+      },
+      "PluginAuthor": "info@nicehash.com",
+      "PluginDescription": "Miner Binary Version '1.73'.\n\nMiner for AMD and Nvidia gpus.",
+      "PackagePassword": null
+    }
+  },
+  {
+    "Item1": {
+      "PluginUUID": "f25fee20-94eb-11ea-a64d-17be303ea466",
+      "PluginPackageHash": "373c1e9b3987957932e91e539675114934e96f7ffcc8f9acbf14fb201f81e5c4",
+      "BinaryPackageHash": "09e03594a2ff5074958a041351537e55775e8ebb9fed9a4e6ec37655915363a8",
+      "PluginName": "NanoMiner",
+      "PluginVersion": {
+        "major": 18,
+        "minor": 1
+      },
+      "PluginPackageURL": "https://github.com/nicehash/NHM_MinerPluginsDownloads/releases/download/v18.x/NanoMiner_v18.1_mptoolkitV1_f25fee20-94eb-11ea-a64d-17be303ea466.zip",
+      "MinerPackageURL": "https://github.com/nanopool/nanominer/releases/download/v3.7.0/nanominer-windows-3.7.0-cuda11.zip",
+      "SupportedDevicesAlgorithms": {
+        "AMD": [
+          "KAWPOW",
+          "DaggerHashimoto",
+          "Autolykos",
+          "EtcHash"
+        ],
+        "NVIDIA": [
+          "KAWPOW",
+          "Octopus",
+          "DaggerHashimoto",
+          "Autolykos",
+          "EtcHash"
+        ]
+      },
+      "PluginAuthor": "info@nicehash.com",
+      "PluginDescription": "Miner Binary Version 'v3.7.0'.\n\nNanominer is a versatile tool for mining cryptocurrencies which are based on Etchash, Ubqhash, Cuckoo Cycle (Сortex coin),RandomX (Monero), KawPow (Ravencoin) and RandomHash (PascalCoin) algorithms.",
+      "PackagePassword": null
+    },
+    "Item2": {
+      "PluginUUID": "f25fee20-94eb-11ea-a64d-17be303ea466",
+      "PluginPackageHash": "d7dc3a893ad9c58a80121bf66151f53d64d98cf26078d2f6f8485f1320e72da2",
+      "BinaryPackageHash": "868206df8fa112ed467f7dbd3fc1bf0e5cee49110ebb8bedf4c4141841c732d8",
+      "PluginName": "NanoMiner",
+      "PluginVersion": {
+        "major": 19,
+        "minor": 3
+      },
+      "PluginPackageURL": "https://github.com/nicehash/NHM_MinerPluginsDownloads/releases/download/v19.x/NanoMiner_v19.3_mptoolkitV1_f25fee20-94eb-11ea-a64d-17be303ea466.zip",
+      "MinerPackageURL": "https://github.com/nanopool/nanominer/releases/download/v3.7.5/nanominer-windows-3.7.5-cuda11.zip",
+      "SupportedDevicesAlgorithms": {
+        "CPU": [
+          "VerusHash"
+        ],
+        "AMD": [
+          "KAWPOW",
+          "DaggerHashimoto",
+          "Autolykos",
+          "EtcHash"
+        ],
+        "NVIDIA": [
+          "KAWPOW",
+          "Octopus",
+          "DaggerHashimoto",
+          "Autolykos",
+          "EtcHash"
+        ]
+      },
+      "PluginAuthor": "info@nicehash.com",
+      "PluginDescription": "Miner Binary Version 'v3.7.5'.\n\nNanominer is a versatile tool for mining cryptocurrencies which are based on Etchash, Ubqhash, Cuckoo Cycle (Сortex coin),RandomX (Monero), KawPow (Ravencoin) and RandomHash (PascalCoin) algorithms.",
+      "PackagePassword": null
+    }
+  },
+  {
+    "Item1": {
+      "PluginUUID": "f25fee20-94eb-11ea-a64d-17be303ea466",
+      "PluginPackageHash": "1341428b505dd1f9feac186f2dda85febf91fd62a5000479ba6098a8063ec0ad",
+      "BinaryPackageHash": "42e469635f582fe0d410b87661d68aeac6009a27ca74bf9e66d772fd35f36967",
+      "PluginName": "NanoMiner",
+      "PluginVersion": {
+        "major": 16,
+        "minor": 5
+      },
+      "PluginPackageURL": "https://github.com/nicehash/NHM_MinerPluginsDownloads/releases/download/v16.x/NanoMiner_v16.5_mptoolkitV1_f25fee20-94eb-11ea-a64d-17be303ea466.zip",
+      "MinerPackageURL": "https://github.com/nanopool/nanominer/releases/download/v3.6.0/nanominer-windows-3.6.0-cuda11.zip",
+      "SupportedDevicesAlgorithms": {
+        "NVIDIA": [
+          "KAWPOW",
+          "Octopus",
+          "DaggerHashimoto",
+          "Autolykos"
+        ],
+        "AMD": [
+          "KAWPOW",
+          "DaggerHashimoto",
+          "Autolykos"
+        ],
+        "CPU": []
+      },
+      "PluginAuthor": "info@nicehash.com",
+      "PluginDescription": "Miner Binary Version 'v3.6.0'.\n\nNanominer is a versatile tool for mining cryptocurrencies which are based on Ethash, Ubqhash, Cuckoo Cycle (Сortex coin),RandomX (Monero), KawPow (Ravencoin) and RandomHash (PascalCoin) algorithms.",
+      "PackagePassword": ""
+    },
+    "Item2": {
+      "PluginUUID": "f25fee20-94eb-11ea-a64d-17be303ea466",
+      "PluginPackageHash": "d7dc3a893ad9c58a80121bf66151f53d64d98cf26078d2f6f8485f1320e72da2",
+      "BinaryPackageHash": "868206df8fa112ed467f7dbd3fc1bf0e5cee49110ebb8bedf4c4141841c732d8",
+      "PluginName": "NanoMiner",
+      "PluginVersion": {
+        "major": 19,
+        "minor": 3
+      },
+      "PluginPackageURL": "https://github.com/nicehash/NHM_MinerPluginsDownloads/releases/download/v19.x/NanoMiner_v19.3_mptoolkitV1_f25fee20-94eb-11ea-a64d-17be303ea466.zip",
+      "MinerPackageURL": "https://github.com/nanopool/nanominer/releases/download/v3.7.5/nanominer-windows-3.7.5-cuda11.zip",
+      "SupportedDevicesAlgorithms": {
+        "CPU": [
+          "VerusHash"
+        ],
+        "AMD": [
+          "KAWPOW",
+          "DaggerHashimoto",
+          "Autolykos",
+          "EtcHash"
+        ],
+        "NVIDIA": [
+          "KAWPOW",
+          "Octopus",
+          "DaggerHashimoto",
+          "Autolykos",
+          "EtcHash"
+        ]
+      },
+      "PluginAuthor": "info@nicehash.com",
+      "PluginDescription": "Miner Binary Version 'v3.7.5'.\n\nNanominer is a versatile tool for mining cryptocurrencies which are based on Etchash, Ubqhash, Cuckoo Cycle (Сortex coin),RandomX (Monero), KawPow (Ravencoin) and RandomHash (PascalCoin) algorithms.",
+      "PackagePassword": null
+    }
+  },
+  {
+    "Item1": {
+      "PluginUUID": "f683f550-94eb-11ea-a64d-17be303ea466",
+      "PluginPackageHash": "8d7419313d9fce1c6a28d0e81ef572f513ad972ec822f604b125eab01ab6947f",
+      "BinaryPackageHash": "0be9bf64a09f788fff0fa93399fe3e591c281e11b52472099b25bfdf6c2b9acd",
+      "PluginName": "NBMiner",
+      "PluginVersion": {
+        "major": 18,
+        "minor": 1
+      },
+      "PluginPackageURL": "https://github.com/nicehash/NHM_MinerPluginsDownloads/releases/download/v18.x/NBMiner_v18.1_mptoolkitV1_f683f550-94eb-11ea-a64d-17be303ea466.zip",
+      "MinerPackageURL": "https://github.com/NebuTech/NBMiner/releases/download/v42.3/NBMiner_42.3_Win.zip",
+      "SupportedDevicesAlgorithms": {
+        "AMD": [
+          "KAWPOW",
+          "DaggerHashimoto",
+          "Autolykos",
+          "EtcHash"
+        ],
+        "NVIDIA": [
+          "CuckooCycle",
+          "DaggerHashimoto",
+          "KAWPOW",
+          "BeamV3",
+          "Octopus",
+          "Autolykos",
+          "EtcHash"
+        ]
+      },
+      "PluginAuthor": "info@nicehash.com",
+      "PluginDescription": "Miner Binary Version 'v42.3'.\n\nGPU Miner for GRIN, AE and ETH mining.",
+      "PackagePassword": null
+    },
+    "Item2": {
+      "PluginUUID": "f683f550-94eb-11ea-a64d-17be303ea466",
+      "PluginPackageHash": "2851a4f7ae4b6c8d55791d84b3be6922e47980629e9f6bc0d7f173b95cae1a1d",
+      "BinaryPackageHash": "0be9bf64a09f788fff0fa93399fe3e591c281e11b52472099b25bfdf6c2b9acd",
+      "PluginName": "NBMiner",
+      "PluginVersion": {
+        "major": 19,
+        "minor": 4
+      },
+      "PluginPackageURL": "https://github.com/nicehash/NHM_MinerPluginsDownloads/releases/download/v19.x/NBMiner_v19.4_mptoolkitV1_f683f550-94eb-11ea-a64d-17be303ea466.zip",
+      "MinerPackageURL": "https://github.com/NebuTech/NBMiner/releases/download/v42.3/NBMiner_42.3_Win.zip",
+      "SupportedDevicesAlgorithms": {
+        "AMD": [
+          "KAWPOW",
+          "DaggerHashimoto",
+          "Autolykos",
+          "EtcHash",
+          "Octopus"
+        ],
+        "NVIDIA": [
+          "DaggerHashimoto",
+          "KAWPOW",
+          "BeamV3",
+          "Octopus",
+          "Autolykos",
+          "EtcHash",
+          "CuckooCycle"
+        ]
+      },
+      "PluginAuthor": "info@nicehash.com",
+      "PluginDescription": "Miner Binary Version 'v42.3'.\n\nGPU Miner for ETC mining.",
+      "PackagePassword": null
+    }
+  },
+  {
+    "Item1": {
+      "PluginUUID": "f683f550-94eb-11ea-a64d-17be303ea466",
+      "PluginPackageHash": "f5d3a88981da58ec3333eb439ae9d90ee9110e485794781feb7b90ac1a929f68",
+      "BinaryPackageHash": "e1bcdd95fdece9c83d6ffa75a87c7e9ee35b0d1e9f8ec77e28d8dbf3ff11ebd9",
+      "PluginName": "NBMiner",
+      "PluginVersion": {
+        "major": 16,
+        "minor": 7
+      },
+      "PluginPackageURL": "https://github.com/nicehash/NHM_MinerPluginsDownloads/releases/download/v16.x/NBMiner_v16.7_mptoolkitV1_f683f550-94eb-11ea-a64d-17be303ea466.zip",
+      "MinerPackageURL": "https://dl.nbminer.com/NBMiner_40.1_Win.zip",
+      "SupportedDevicesAlgorithms": {
+        "NVIDIA": [
+          "CuckooCycle",
+          "DaggerHashimoto",
+          "KAWPOW",
+          "BeamV3",
+          "Octopus",
+          "Autolykos"
+        ],
+        "AMD": [
+          "KAWPOW",
+          "DaggerHashimoto",
+          "Autolykos"
+        ],
+        "CPU": []
+      },
+      "PluginAuthor": "info@nicehash.com",
+      "PluginDescription": "Miner Binary Version 'v40.1'.\n\nGPU Miner for GRIN, AE and ETH mining.",
+      "PackagePassword": ""
+    },
+    "Item2": {
+      "PluginUUID": "f683f550-94eb-11ea-a64d-17be303ea466",
+      "PluginPackageHash": "2851a4f7ae4b6c8d55791d84b3be6922e47980629e9f6bc0d7f173b95cae1a1d",
+      "BinaryPackageHash": "0be9bf64a09f788fff0fa93399fe3e591c281e11b52472099b25bfdf6c2b9acd",
+      "PluginName": "NBMiner",
+      "PluginVersion": {
+        "major": 19,
+        "minor": 4
+      },
+      "PluginPackageURL": "https://github.com/nicehash/NHM_MinerPluginsDownloads/releases/download/v19.x/NBMiner_v19.4_mptoolkitV1_f683f550-94eb-11ea-a64d-17be303ea466.zip",
+      "MinerPackageURL": "https://github.com/NebuTech/NBMiner/releases/download/v42.3/NBMiner_42.3_Win.zip",
+      "SupportedDevicesAlgorithms": {
+        "AMD": [
+          "KAWPOW",
+          "DaggerHashimoto",
+          "Autolykos",
+          "EtcHash",
+          "Octopus"
+        ],
+        "NVIDIA": [
+          "DaggerHashimoto",
+          "KAWPOW",
+          "BeamV3",
+          "Octopus",
+          "Autolykos",
+          "EtcHash",
+          "CuckooCycle"
+        ]
+      },
+      "PluginAuthor": "info@nicehash.com",
+      "PluginDescription": "Miner Binary Version 'v42.3'.\n\nGPU Miner for ETC mining.",
+      "PackagePassword": null
+    }
+  }
+]

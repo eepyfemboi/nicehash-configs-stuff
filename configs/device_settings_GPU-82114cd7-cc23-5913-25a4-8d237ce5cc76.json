@@ -1,0 +1,494 @@
+{
+  "DeviceUUID": "GPU-82114cd7-cc23-5913-25a4-8d237ce5cc76",
+  "DeviceName": "PNY NVIDIA GeForce RTX 4060",
+  "Enabled": true,
+  "MinimumProfit": 0.0,
+  "PauseMiningWhenGamingMode": false,
+  "TDPSettings": {
+    "SettingType": "SIMPLE",
+    "Simple": "HIGH",
+    "Percentage": null
+  },
+  "PluginAlgorithmSettings": [
+    {
+      "Name": "Excavator",
+      "PluginUUID": "27315fe0-3b03-11eb-b105-8d43d5bd63be",
+      "PluginVersion": "22.1",
+      "AlgorithmIDs": "DaggerHashimoto",
+      "Speeds": [
+        30783037.364771467
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": true,
+      "PowerUsage": 0.0
+    },
+    {
+      "Name": "Excavator",
+      "PluginUUID": "27315fe0-3b03-11eb-b105-8d43d5bd63be",
+      "PluginVersion": "22.1",
+      "AlgorithmIDs": "EtcHash",
+      "Speeds": [
+        27436257.257206917
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": true,
+      "PowerUsage": 0.0
+    },
+    {
+      "Name": "Excavator",
+      "PluginUUID": "27315fe0-3b03-11eb-b105-8d43d5bd63be",
+      "PluginVersion": "22.1",
+      "AlgorithmIDs": "Autolykos",
+      "Speeds": [
+        72982615.04226704
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": true,
+      "PowerUsage": 0.0
+    },
+    {
+      "Name": "Excavator",
+      "PluginUUID": "27315fe0-3b03-11eb-b105-8d43d5bd63be",
+      "PluginVersion": "22.1",
+      "AlgorithmIDs": "KAWPOW",
+      "Speeds": [
+        15847078.025136229
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": true,
+      "PowerUsage": 0.0
+    },
+    {
+      "Name": "Excavator",
+      "PluginUUID": "27315fe0-3b03-11eb-b105-8d43d5bd63be",
+      "PluginVersion": "22.1",
+      "AlgorithmIDs": "NeoScrypt",
+      "Speeds": [
+        1296153.7760494817
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": true,
+      "PowerUsage": 0.0
+    },
+    {
+      "Name": "Excavator",
+      "PluginUUID": "27315fe0-3b03-11eb-b105-8d43d5bd63be",
+      "PluginVersion": "22.1",
+      "AlgorithmIDs": "KHeavyHash",
+      "Speeds": [
+        516926974.39338696
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": true,
+      "PowerUsage": 0.0
+    },
+    {
+      "Name": "Excavator",
+      "PluginUUID": "27315fe0-3b03-11eb-b105-8d43d5bd63be",
+      "PluginVersion": "22.1",
+      "AlgorithmIDs": "IronFish",
+      "Speeds": [
+        10534795873.39264
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": true,
+      "PowerUsage": 0.0
+    },
+    {
+      "Name": "GMiner",
+      "PluginUUID": "d8ddcaf2-95c5-4f9a-b65f-c123a0d4fbc2",
+      "PluginVersion": "22.0",
+      "AlgorithmIDs": "DaggerHashimoto",
+      "Speeds": [
+        32460050.809999995
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": true,
+      "PowerUsage": 0.0
+    },
+    {
+      "Name": "GMiner",
+      "PluginUUID": "d8ddcaf2-95c5-4f9a-b65f-c123a0d4fbc2",
+      "PluginVersion": "22.0",
+      "AlgorithmIDs": "EtcHash",
+      "Speeds": [
+        32262432.950000003
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": true,
+      "PowerUsage": 0.0
+    },
+    {
+      "Name": "GMiner",
+      "PluginUUID": "d8ddcaf2-95c5-4f9a-b65f-c123a0d4fbc2",
+      "PluginVersion": "22.0",
+      "AlgorithmIDs": "KAWPOW",
+      "Speeds": [
+        16056186.82888889
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": true,
+      "PowerUsage": 0.0
+    },
+    {
+      "Name": "GMiner",
+      "PluginUUID": "d8ddcaf2-95c5-4f9a-b65f-c123a0d4fbc2",
+      "PluginVersion": "22.0",
+      "AlgorithmIDs": "Autolykos",
+      "Speeds": [
+        74792477.79111111
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": true,
+      "PowerUsage": 0.0
+    },
+    {
+      "Name": "GMiner",
+      "PluginUUID": "d8ddcaf2-95c5-4f9a-b65f-c123a0d4fbc2",
+      "PluginVersion": "22.0",
+      "AlgorithmIDs": "KHeavyHash",
+      "Speeds": [
+        514738934.56222224
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": true,
+      "PowerUsage": 0.0
+    },
+    {
+      "Name": "GMiner",
+      "PluginUUID": "d8ddcaf2-95c5-4f9a-b65f-c123a0d4fbc2",
+      "PluginVersion": "22.0",
+      "AlgorithmIDs": "CuckooCycle",
+      "Speeds": [
+        5.276755555555557
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": true,
+      "PowerUsage": 0.0
+    },
+    {
+      "Name": "GMiner",
+      "PluginUUID": "d8ddcaf2-95c5-4f9a-b65f-c123a0d4fbc2",
+      "PluginVersion": "22.0",
+      "AlgorithmIDs": "ZelHash",
+      "Speeds": [
+        37.13111111111111
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": true,
+      "PowerUsage": 0.0
+    },
+    {
+      "Name": "GMiner",
+      "PluginUUID": "d8ddcaf2-95c5-4f9a-b65f-c123a0d4fbc2",
+      "PluginVersion": "22.0",
+      "AlgorithmIDs": "ZHash",
+      "Speeds": [
+        62.04488888888889
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": true,
+      "PowerUsage": 0.0
+    },
+    {
+      "Name": "GMiner",
+      "PluginUUID": "d8ddcaf2-95c5-4f9a-b65f-c123a0d4fbc2",
+      "PluginVersion": "22.0",
+      "AlgorithmIDs": "Octopus",
+      "Speeds": [
+        31580462.97777778
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": true,
+      "PowerUsage": 0.0
+    },
+    {
+      "Name": "GMiner",
+      "PluginUUID": "d8ddcaf2-95c5-4f9a-b65f-c123a0d4fbc2",
+      "PluginVersion": "22.0",
+      "AlgorithmIDs": "IronFish",
+      "Speeds": [
+        11418400902.377777
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": true,
+      "PowerUsage": 0.0
+    },
+    {
+      "Name": "lolMiner",
+      "PluginUUID": "eb75e920-94eb-11ea-a64d-17be303ea466",
+      "PluginVersion": "22.0",
+      "AlgorithmIDs": "GrinCuckatoo32",
+      "Speeds": [
+        0.0
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": false,
+      "PowerUsage": 0.0
+    },
+    {
+      "Name": "lolMiner",
+      "PluginUUID": "eb75e920-94eb-11ea-a64d-17be303ea466",
+      "PluginVersion": "22.0",
+      "AlgorithmIDs": "CuckooCycle",
+      "Speeds": [
+        3.9061
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": true,
+      "PowerUsage": 0.0
+    },
+    {
+      "Name": "lolMiner",
+      "PluginUUID": "eb75e920-94eb-11ea-a64d-17be303ea466",
+      "PluginVersion": "22.0",
+      "AlgorithmIDs": "ZHash",
+      "Speeds": [
+        49.7343
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": true,
+      "PowerUsage": 0.0
+    },
+    {
+      "Name": "lolMiner",
+      "PluginUUID": "eb75e920-94eb-11ea-a64d-17be303ea466",
+      "PluginVersion": "22.0",
+      "AlgorithmIDs": "BeamV3",
+      "Speeds": [
+        0.0
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": false,
+      "PowerUsage": 0.0
+    },
+    {
+      "Name": "lolMiner",
+      "PluginUUID": "eb75e920-94eb-11ea-a64d-17be303ea466",
+      "PluginVersion": "22.0",
+      "AlgorithmIDs": "DaggerHashimoto",
+      "Speeds": [
+        0.0
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": true,
+      "PowerUsage": 79.64
+    },
+    {
+      "Name": "lolMiner",
+      "PluginUUID": "eb75e920-94eb-11ea-a64d-17be303ea466",
+      "PluginVersion": "22.0",
+      "AlgorithmIDs": "EtcHash",
+      "Speeds": [
+        0.0
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": true,
+      "PowerUsage": 97.0
+    },
+    {
+      "Name": "lolMiner",
+      "PluginUUID": "eb75e920-94eb-11ea-a64d-17be303ea466",
+      "PluginVersion": "22.0",
+      "AlgorithmIDs": "ZelHash",
+      "Speeds": [
+        0.0
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": true,
+      "PowerUsage": 110.0111111111111
+    },
+    {
+      "Name": "lolMiner",
+      "PluginUUID": "eb75e920-94eb-11ea-a64d-17be303ea466",
+      "PluginVersion": "22.0",
+      "AlgorithmIDs": "KHeavyHash",
+      "Speeds": [
+        0.0
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": true,
+      "PowerUsage": 102.03888888888889
+    },
+    {
+      "Name": "lolMiner",
+      "PluginUUID": "eb75e920-94eb-11ea-a64d-17be303ea466",
+      "PluginVersion": "22.0",
+      "AlgorithmIDs": "Autolykos",
+      "Speeds": [
+        0.0
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": true,
+      "PowerUsage": 93.47222222222223
+    },
+    {
+      "Name": "lolMiner",
+      "PluginUUID": "eb75e920-94eb-11ea-a64d-17be303ea466",
+      "PluginVersion": "22.0",
+      "AlgorithmIDs": "NexaPow",
+      "Speeds": [
+        0.0
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": true,
+      "PowerUsage": 92.01680672268908
+    },
+    {
+      "Name": "lolMiner",
+      "PluginUUID": "eb75e920-94eb-11ea-a64d-17be303ea466",
+      "PluginVersion": "22.0",
+      "AlgorithmIDs": "IronFish",
+      "Speeds": [
+        0.0
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": true,
+      "PowerUsage": 109.14285714285714
+    },
+    {
+      "Name": "NanoMiner",
+      "PluginUUID": "f25fee20-94eb-11ea-a64d-17be303ea466",
+      "PluginVersion": "19.6",
+      "AlgorithmIDs": "KAWPOW",
+      "Speeds": [
+        0.0
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": true,
+      "PowerUsage": 110.02298850574712
+    },
+    {
+      "Name": "NanoMiner",
+      "PluginUUID": "f25fee20-94eb-11ea-a64d-17be303ea466",
+      "PluginVersion": "19.6",
+      "AlgorithmIDs": "Octopus",
+      "Speeds": [
+        0.0
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": true,
+      "PowerUsage": 110.44067796610169
+    },
+    {
+      "Name": "NanoMiner",
+      "PluginUUID": "f25fee20-94eb-11ea-a64d-17be303ea466",
+      "PluginVersion": "19.6",
+      "AlgorithmIDs": "DaggerHashimoto",
+      "Speeds": [
+        0.0
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": true,
+      "PowerUsage": 72.55614973262033
+    },
+    {
+      "Name": "NanoMiner",
+      "PluginUUID": "f25fee20-94eb-11ea-a64d-17be303ea466",
+      "PluginVersion": "19.6",
+      "AlgorithmIDs": "Autolykos",
+      "Speeds": [
+        0.0
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": true,
+      "PowerUsage": 77.77
+    },
+    {
+      "Name": "NanoMiner",
+      "PluginUUID": "f25fee20-94eb-11ea-a64d-17be303ea466",
+      "PluginVersion": "19.6",
+      "AlgorithmIDs": "EtcHash",
+      "Speeds": [
+        0.0
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": true,
+      "PowerUsage": 79.145
+    },
+    {
+      "Name": "NBMiner",
+      "PluginUUID": "f683f550-94eb-11ea-a64d-17be303ea466",
+      "PluginVersion": "19.7",
+      "AlgorithmIDs": "DaggerHashimoto",
+      "Speeds": [
+        0.0
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": false,
+      "PowerUsage": 0.0
+    },
+    {
+      "Name": "NBMiner",
+      "PluginUUID": "f683f550-94eb-11ea-a64d-17be303ea466",
+      "PluginVersion": "19.7",
+      "AlgorithmIDs": "KAWPOW",
+      "Speeds": [
+        0.0
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": false,
+      "PowerUsage": 0.0
+    },
+    {
+      "Name": "NBMiner",
+      "PluginUUID": "f683f550-94eb-11ea-a64d-17be303ea466",
+      "PluginVersion": "19.7",
+      "AlgorithmIDs": "BeamV3",
+      "Speeds": [
+        0.0
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": false,
+      "PowerUsage": 0.0
+    },
+    {
+      "Name": "NBMiner",
+      "PluginUUID": "f683f550-94eb-11ea-a64d-17be303ea466",
+      "PluginVersion": "19.7",
+      "AlgorithmIDs": "Octopus",
+      "Speeds": [
+        0.0
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": false,
+      "PowerUsage": 0.0
+    },
+    {
+      "Name": "NBMiner",
+      "PluginUUID": "f683f550-94eb-11ea-a64d-17be303ea466",
+      "PluginVersion": "19.7",
+      "AlgorithmIDs": "Autolykos",
+      "Speeds": [
+        0.0
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": false,
+      "PowerUsage": 0.0
+    },
+    {
+      "Name": "NBMiner",
+      "PluginUUID": "f683f550-94eb-11ea-a64d-17be303ea466",
+      "PluginVersion": "19.7",
+      "AlgorithmIDs": "EtcHash",
+      "Speeds": [
+        0.0
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": false,
+      "PowerUsage": 0.0
+    },
+    {
+      "Name": "NBMiner",
+      "PluginUUID": "f683f550-94eb-11ea-a64d-17be303ea466",
+      "PluginVersion": "19.7",
+      "AlgorithmIDs": "CuckooCycle",
+      "Speeds": [
+        0.0
+      ],
+      "ExtraLaunchParameters": "",
+      "Enabled": false,
+      "PowerUsage": 0.0
+    }
+  ]
+}
