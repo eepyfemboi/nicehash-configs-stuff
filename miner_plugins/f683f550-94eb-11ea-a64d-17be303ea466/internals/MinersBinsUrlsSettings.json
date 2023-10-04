@@ -1,0 +1,13 @@
+{
+  "use_user_settings": false,
+  "bin_version": "v42.3",
+  "bin_path": [
+    "NBMiner_Win",
+    "nbminer.exe"
+  ],
+  "bins_urls": [
+    "https://github.com/NebuTech/NBMiner/releases/download/v42.3/NBMiner_42.3_Win.zip",
+    "https://dl.nbminer.com/NBMiner_42.3_Win.zip"
+  ],
+  "bins_package_pwd": null
+}

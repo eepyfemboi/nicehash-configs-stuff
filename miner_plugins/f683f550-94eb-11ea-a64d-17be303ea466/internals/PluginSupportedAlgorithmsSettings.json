@@ -1,0 +1,90 @@
+{
+  "use_user_settings": false,
+  "enable_unsafe_RAM_limits": false,
+  "default_fee": 2.0,
+  "algorithm_fees": null,
+  "algorithm_fees_v2": {
+    "DaggerHashimoto": 1.0,
+    "Octopus": 3.0,
+    "EtcHash": 1.0
+  },
+  "device_algorithms": {
+    "NVIDIA": [
+      {
+        "IDs": "DaggerHashimoto",
+        "Enabled": false,
+        "ExtraLaunchParameters": null,
+        "NonDefaultRAMLimit": null
+      },
+      {
+        "IDs": "KAWPOW",
+        "Enabled": false,
+        "ExtraLaunchParameters": null,
+        "NonDefaultRAMLimit": 4294967296
+      },
+      {
+        "IDs": "BeamV3",
+        "Enabled": false,
+        "ExtraLaunchParameters": null,
+        "NonDefaultRAMLimit": null
+      },
+      {
+        "IDs": "Octopus",
+        "Enabled": false,
+        "ExtraLaunchParameters": null,
+        "NonDefaultRAMLimit": 7516192768
+      },
+      {
+        "IDs": "Autolykos",
+        "Enabled": false,
+        "ExtraLaunchParameters": null,
+        "NonDefaultRAMLimit": null
+      },
+      {
+        "IDs": "EtcHash",
+        "Enabled": false,
+        "ExtraLaunchParameters": null,
+        "NonDefaultRAMLimit": 3556769792
+      },
+      {
+        "IDs": "CuckooCycle",
+        "Enabled": false,
+        "ExtraLaunchParameters": null,
+        "NonDefaultRAMLimit": null
+      }
+    ],
+    "AMD": [
+      {
+        "IDs": "KAWPOW",
+        "Enabled": false,
+        "ExtraLaunchParameters": null,
+        "NonDefaultRAMLimit": 4294967296
+      },
+      {
+        "IDs": "DaggerHashimoto",
+        "Enabled": false,
+        "ExtraLaunchParameters": null,
+        "NonDefaultRAMLimit": null
+      },
+      {
+        "IDs": "Autolykos",
+        "Enabled": false,
+        "ExtraLaunchParameters": null,
+        "NonDefaultRAMLimit": null
+      },
+      {
+        "IDs": "EtcHash",
+        "Enabled": false,
+        "ExtraLaunchParameters": null,
+        "NonDefaultRAMLimit": 3556769792
+      },
+      {
+        "IDs": "Octopus",
+        "Enabled": false,
+        "ExtraLaunchParameters": null,
+        "NonDefaultRAMLimit": 7516192768
+      }
+    ]
+  },
+  "plugin_algorithm_name": null
+}

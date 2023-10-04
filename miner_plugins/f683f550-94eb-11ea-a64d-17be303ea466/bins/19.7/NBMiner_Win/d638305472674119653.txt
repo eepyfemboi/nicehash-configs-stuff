@@ -1,0 +1,14 @@
+{
+    "devices": [
+        {
+            "compute_capability": 89,
+            "core_clock": 2460,
+            "cu_count": 24,
+            "device_id": 0,
+            "mem_clock": 8501,
+            "memory": 8187,
+            "name": "NVIDIA GeForce RTX 4060",
+            "pci_bus_id": 1
+        }
+    ]
+}

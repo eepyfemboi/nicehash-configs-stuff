@@ -1,0 +1,22 @@
+{
+  "use_user_settings": false,
+  "devices_separator": ",",
+  "algorithm_command_line": {
+    "DaggerHashimoto": "-a ethash -o nicehash+tcp://{POOL_URL}:{POOL_PORT} -u {USERNAME} --api 127.0.0.1:{API_PORT} -d {DEVICES} --no-watchdog {EXTRA_LAUNCH_PARAMETERS}",
+    "CuckooCycle": "-a cuckoo_ae -o stratum+tcp://{POOL_URL}:{POOL_PORT} -u {USERNAME} --api 127.0.0.1:{API_PORT} -d {DEVICES} --no-watchdog {EXTRA_LAUNCH_PARAMETERS}",
+    "KAWPOW": "-a kawpow -o stratum+tcp://{POOL_URL}:{POOL_PORT} -u {USERNAME} --api 127.0.0.1:{API_PORT} -d {DEVICES} --no-watchdog {EXTRA_LAUNCH_PARAMETERS}",
+    "BeamV3": "-a beamv3 -o stratum+tcp://{POOL_URL}:{POOL_PORT} -u {USERNAME} --api 127.0.0.1:{API_PORT} -d {DEVICES} --no-watchdog {EXTRA_LAUNCH_PARAMETERS}",
+    "Octopus": "-a octopus -o stratum+tcp://{POOL_URL}:{POOL_PORT} -u {USERNAME} --api 127.0.0.1:{API_PORT} -d {DEVICES} --no-watchdog {EXTRA_LAUNCH_PARAMETERS}",
+    "Autolykos": "-a ergo -o stratum+tcp://{POOL_URL}:{POOL_PORT} -u {USERNAME} --api 127.0.0.1:{API_PORT} -d {DEVICES} --no-watchdog {EXTRA_LAUNCH_PARAMETERS}",
+    "EtcHash": "-a etchash -o nicehash+tcp://{POOL_URL}:{POOL_PORT} -u {USERNAME} --api 127.0.0.1:{API_PORT} -d {DEVICES} --no-watchdog {EXTRA_LAUNCH_PARAMETERS}"
+  },
+  "algorithm_command_line_ssl": {
+    "DaggerHashimoto": "-a ethash -o nicehash+ssl://{POOL_URL}:443 -u {USERNAME} --api 127.0.0.1:{API_PORT} -d {DEVICES} --no-watchdog {EXTRA_LAUNCH_PARAMETERS}",
+    "CuckooCycle": "-a cuckoo_ae -o stratum+ssl://{POOL_URL}:443 -u {USERNAME} --api 127.0.0.1:{API_PORT} -d {DEVICES} --no-watchdog {EXTRA_LAUNCH_PARAMETERS}",
+    "KAWPOW": "-a kawpow -o stratum+ssl://{POOL_URL}:443 -u {USERNAME} --api 127.0.0.1:{API_PORT} -d {DEVICES} --no-watchdog {EXTRA_LAUNCH_PARAMETERS}",
+    "BeamV3": "-a beamv3 -o stratum+ssl://{POOL_URL}:443 -u {USERNAME} --api 127.0.0.1:{API_PORT} -d {DEVICES} --no-watchdog {EXTRA_LAUNCH_PARAMETERS}",
+    "Octopus": "-a octopus -o stratum+ssl://{POOL_URL}:443 -u {USERNAME} --api 127.0.0.1:{API_PORT} -d {DEVICES} --no-watchdog {EXTRA_LAUNCH_PARAMETERS}",
+    "Autolykos": "-a ergo -o stratum+ssl://{POOL_URL}:443 -u {USERNAME} --api 127.0.0.1:{API_PORT} -d {DEVICES} --no-watchdog {EXTRA_LAUNCH_PARAMETERS}",
+    "EtcHash": "-a etchash -o nicehash+ssl://{POOL_URL}:443 -u {USERNAME} --api 127.0.0.1:{API_PORT} -d {DEVICES} --no-watchdog {EXTRA_LAUNCH_PARAMETERS}"
+  }
+}
