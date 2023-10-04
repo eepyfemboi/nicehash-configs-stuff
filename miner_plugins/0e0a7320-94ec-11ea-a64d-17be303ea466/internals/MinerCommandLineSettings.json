@@ -1,0 +1,10 @@
+{
+  "use_user_settings": false,
+  "devices_separator": ",",
+  "algorithm_command_line": {
+    "RandomXmonero": "-a rx/0 -o {POOL_URL}:{POOL_PORT} -u {USERNAME} --http-enabled --http-port={API_PORT} --nicehash --donate-level=1 {EXTRA_LAUNCH_PARAMETERS}"
+  },
+  "algorithm_command_line_ssl": {
+    "RandomXmonero": "-a rx/0 -o {POOL_URL}:443 -u {USERNAME} --http-enabled --http-port={API_PORT} --nicehash --tls --donate-level=1 {EXTRA_LAUNCH_PARAMETERS}"
+  }
+}

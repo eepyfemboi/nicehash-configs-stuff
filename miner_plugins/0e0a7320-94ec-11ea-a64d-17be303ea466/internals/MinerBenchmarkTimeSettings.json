@@ -1,0 +1,24 @@
+{
+  "use_user_settings": false,
+  "max_ticks_enabled": true,
+  "time_general_s": {
+    "Quick": 20,
+    "Standard": 60,
+    "Precise": 120
+  },
+  "time_per_algorithm_s": {
+    "Quick": {},
+    "Standard": {},
+    "Precise": {}
+  },
+  "max_ticks_general": {
+    "Quick": 1,
+    "Standard": 3,
+    "Precise": 9
+  },
+  "max_ticks_per_algorithm": {
+    "Quick": {},
+    "Standard": {},
+    "Precise": {}
+  }
+}

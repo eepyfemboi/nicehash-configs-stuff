@@ -1,0 +1,7 @@
+{
+  "use_user_settings": false,
+  "enabled": true,
+  "general_timeout": "00:05:00",
+  "timeout_per_algorithm": {},
+  "timeout_per_device_type": {}
+}

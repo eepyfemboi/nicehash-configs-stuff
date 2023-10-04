@@ -1,0 +1,12 @@
+{
+  "use_user_settings": false,
+  "bin_version": "v6.8.1",
+  "bin_path": [
+    "xmrig-6.8.1",
+    "xmrig.exe"
+  ],
+  "bins_urls": [
+    "https://github.com/xmrig/xmrig/releases/download/v6.8.1/xmrig-6.8.1-msvc-win64.zip"
+  ],
+  "bins_package_pwd": null
+}
