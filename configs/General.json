@@ -1,7 +1,7 @@
 {
   "ConfigFileVersion": "3.1.0.9",
   "BitcoinAddress": "NHbYZE9GQkRm4zNu3yRvgM9JDTMw5zSQPiQU",
-  "WorkerName": "worker1",
+  "WorkerName": "farmworker",
   "RigGroup": "",
   "AutoStartMining": true,
   "HideMiningWindows": true,
@@ -10,7 +10,7 @@
   "MinerRestartDelayMS": 500,
   "ApiBindPortPoolStart": 4000,
   "PauseMiningWhenGamingMode": false,
-  "DeviceToPauseUuid": "GPU-82114cd7-cc23-5913-25a4-8d237ce5cc76",
+  "DeviceToPauseUuid": "",
   "UseScheduler": false,
   "EnableSSLMining": true,
   "AdvancedMode": false,
@@ -29,7 +29,7 @@
   "MineRegardlessOfProfit": true,
   "UseIFTTT": false,
   "IFTTTKey": "",
-  "Hwid": "0-11f-JbfTcV25uzp3pbabxw",
+  "Hwid": "",
   "SwitchSmaTimeChangeSeconds": {
     "Lower": 34,
     "Upper": 55
